@@ -1,4 +1,4 @@
-# Node CLI Weather App
+# Node CLI Weather App 🌤️ ⛈️ 😎
 
 For this project you'll build a simple weather application in Node.js that allows a user to search for a location and view the current weather information for that location at the command line.
 
